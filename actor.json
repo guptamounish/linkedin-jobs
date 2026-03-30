@@ -1,0 +1,8 @@
+{
+    "actorSpecification": 1,
+    "name": "linkedin-job-scraper-mounish",
+    "title": "LinkedIn Job Scraper — Senior Data Engineer",
+    "description": "Scrapes LinkedIn public jobs posted in last 24 hours in the US for Senior Data Engineer roles. Free, no login needed.",
+    "version": "0.1",
+    "buildTag": "latest"
+}
