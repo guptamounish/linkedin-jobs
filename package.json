@@ -1,0 +1,14 @@
+{
+    "name": "linkedin-job-scraper-mounish",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Scrapes LinkedIn for Senior Data Engineer jobs posted today in the US — built for Mounish K",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "apify": "^3.2.1",
+        "crawlee": "^3.5.8"
+    }
+}
